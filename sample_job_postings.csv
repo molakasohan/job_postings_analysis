@@ -1,0 +1,151 @@
+PostingID,Date,Company,Location,Experience,Skills,SalaryLPA
+1,2026-08-21,Accenture,Bangalore,2-4 years,"Power BI, R, Excel, Statistics",7.4
+2,2026-08-09,Accenture,Chennai,0-2 years,"SQL, Excel, Snowflake",9.3
+3,2026-08-17,TCS,Chennai,Fresher,"R, AWS, Excel, Power BI, Tableau",5.9
+4,2026-06-01,LatentView Analytics,Hyderabad,2-4 years,"Statistics, Tableau, Excel, AWS",19.4
+5,2026-07-14,Accenture,Bangalore,0-2 years,"Statistics, R, Tableau",9.7
+6,2026-06-06,IBM,Gurgaon,2-4 years,"AWS, Excel, Tableau",10.1
+7,2026-08-20,Fractal Analytics,Pune,2-4 years,"Excel, SQL, Statistics",9.2
+8,2026-07-08,Accenture,Hyderabad,Fresher,"Tableau, Snowflake, Statistics, Python",4.9
+9,2026-07-16,Wipro,Mumbai,0-2 years,"Excel, Python, Tableau, Statistics, R",8.3
+10,2026-07-19,Cognizant,Mumbai,2-4 years,"Power BI, Statistics, AWS, SQL, Excel",17.5
+11,2026-07-11,Amazon,Pune,Fresher,"Statistics, Power BI, R",7.7
+12,2026-08-22,Deloitte,Hyderabad,0-2 years,"Power BI, Tableau, Statistics",14.2
+13,2026-08-14,Amazon,Pune,Fresher,"R, Snowflake, SQL",9.9
+14,2026-06-15,Infosys,Mumbai,Fresher,"AWS, Excel, Power BI, R, Tableau",12.0
+15,2026-08-07,Cognizant,Chennai,Fresher,"Excel, Tableau, AWS, Statistics, Python",4.4
+16,2026-07-26,Infosys,Gurgaon,Fresher,"Tableau, Python, R, SQL, Snowflake",10.7
+17,2026-08-04,Fractal Analytics,Hyderabad,Fresher,"Python, SQL, Tableau, R",7.7
+18,2026-06-15,Google,Pune,Fresher,"Power BI, Excel, SQL",9.7
+19,2026-06-09,LatentView Analytics,Chennai,Fresher,"Snowflake, Python, R",8.0
+20,2026-08-17,Amazon,Hyderabad,2-4 years,"Power BI, Tableau, R, Statistics, Python",12.1
+21,2026-08-06,Deloitte,Bangalore,Fresher,"Excel, Statistics, SQL",8.5
+22,2026-06-30,Fractal Analytics,Hyderabad,Fresher,"SQL, Power BI, R",11.2
+23,2026-07-13,Accenture,Chennai,Fresher,"Snowflake, Power BI, Tableau, Excel",9.6
+24,2026-08-13,Fractal Analytics,Gurgaon,Fresher,"AWS, Power BI, SQL, R",9.1
+25,2026-07-16,Amazon,Gurgaon,0-2 years,"SQL, Excel, R, Power BI, Python",17.2
+26,2026-06-14,Wipro,Hyderabad,Fresher,"Snowflake, Python, Power BI, Excel, R",7.4
+27,2026-06-10,Deloitte,Chennai,Fresher,"R, SQL, Snowflake",11.4
+28,2026-07-01,Infosys,Gurgaon,0-2 years,"Power BI, AWS, SQL, Excel",11.3
+29,2026-07-20,Cognizant,Gurgaon,0-2 years,"R, Snowflake, Excel, AWS",10.2
+30,2026-06-08,Fractal Analytics,Mumbai,2-4 years,"Statistics, SQL, Snowflake",14.2
+31,2026-08-04,EXL,Hyderabad,Fresher,"Excel, Python, SQL, Tableau, AWS",9.2
+32,2026-07-01,Amazon,Bangalore,2-4 years,"SQL, Excel, Power BI",15.2
+33,2026-08-12,EXL,Pune,0-2 years,"Statistics, Power BI, Python",11.5
+34,2026-08-25,ZS Associates,Pune,0-2 years,"Excel, SQL, Power BI, Tableau",20.0
+35,2026-06-13,Accenture,Chennai,Fresher,"Tableau, Python, Snowflake, SQL, Excel",6.6
+36,2026-06-21,Deloitte,Chennai,2-4 years,"R, SQL, Statistics, Tableau",10.2
+37,2026-08-24,Accenture,Hyderabad,0-2 years,"Excel, Python, Snowflake",9.9
+38,2026-06-27,IBM,Pune,Fresher,"Tableau, Snowflake, Python, SQL, Statistics",8.9
+39,2026-07-06,TCS,Bangalore,0-2 years,"Tableau, Python, Statistics",12.2
+40,2026-08-30,Amazon,Chennai,Fresher,"Excel, Python, Tableau",3.8
+41,2026-07-18,Fractal Analytics,Chennai,Fresher,"Python, SQL, R, AWS",11.1
+42,2026-06-06,Google,Hyderabad,2-4 years,"Excel, Statistics, AWS",13.8
+43,2026-07-23,Fractal Analytics,Mumbai,Fresher,"Python, R, Power BI",3.7
+44,2026-07-13,LatentView Analytics,Gurgaon,2-4 years,"Power BI, Tableau, Excel, Statistics, SQL",11.4
+45,2026-06-05,Deloitte,Hyderabad,Fresher,"Statistics, Tableau, AWS, Excel",5.4
+46,2026-08-24,Wipro,Gurgaon,0-2 years,"Excel, Tableau, Python, Statistics",13.1
+47,2026-08-26,EXL,Pune,Fresher,"Tableau, Python, R",11.7
+48,2026-07-04,TCS,Bangalore,2-4 years,"Statistics, R, Power BI, Tableau",19.8
+49,2026-06-15,Amazon,Chennai,Fresher,"SQL, AWS, R, Tableau",11.4
+50,2026-08-08,ZS Associates,Mumbai,2-4 years,"Power BI, Statistics, R, SQL, Python",14.7
+51,2026-08-24,Accenture,Mumbai,0-2 years,"Tableau, AWS, Python, Power BI, Snowflake",13.8
+52,2026-06-25,Amazon,Mumbai,0-2 years,"Python, Tableau, Power BI, Snowflake, SQL",10.3
+53,2026-06-27,Amazon,Chennai,2-4 years,"Statistics, Snowflake, Power BI, AWS, Excel",13.2
+54,2026-06-22,ZS Associates,Bangalore,0-2 years,"Statistics, Excel, AWS, Snowflake, Python",9.1
+55,2026-06-26,Infosys,Bangalore,Fresher,"Snowflake, Excel, Power BI",7.0
+56,2026-08-20,Fractal Analytics,Hyderabad,2-4 years,"AWS, Snowflake, Power BI, Excel, Statistics",15.2
+57,2026-06-01,LatentView Analytics,Bangalore,0-2 years,"Python, Snowflake, SQL",13.8
+58,2026-06-16,Deloitte,Hyderabad,0-2 years,"R, Statistics, AWS, Power BI, Tableau",17.4
+59,2026-08-04,Amazon,Chennai,0-2 years,"Snowflake, R, Python",16.5
+60,2026-08-21,Cognizant,Chennai,0-2 years,"Power BI, Tableau, R, SQL, Python",9.3
+61,2026-07-13,Google,Chennai,Fresher,"Python, Power BI, Snowflake",9.4
+62,2026-08-30,Wipro,Bangalore,0-2 years,"Statistics, Snowflake, Power BI, SQL",8.9
+63,2026-07-24,Amazon,Chennai,2-4 years,"AWS, Snowflake, SQL",19.2
+64,2026-07-09,LatentView Analytics,Gurgaon,0-2 years,"R, Power BI, Snowflake, Excel, Python",12.1
+65,2026-06-04,Amazon,Pune,2-4 years,"AWS, Python, R, Power BI, Excel",19.7
+66,2026-08-08,TCS,Gurgaon,2-4 years,"SQL, Excel, Statistics, Power BI, Snowflake",18.1
+67,2026-06-24,TCS,Pune,0-2 years,"Power BI, Snowflake, Python, AWS",16.7
+68,2026-07-19,Cognizant,Gurgaon,0-2 years,"Snowflake, SQL, Statistics",13.6
+69,2026-07-15,Wipro,Mumbai,Fresher,"SQL, R, Excel, AWS, Snowflake",8.8
+70,2026-07-01,Infosys,Gurgaon,2-4 years,"Power BI, Snowflake, Statistics",9.6
+71,2026-07-18,Infosys,Chennai,2-4 years,"Excel, Python, Snowflake, SQL, Tableau",6.4
+72,2026-07-10,Fractal Analytics,Mumbai,0-2 years,"Power BI, Excel, Tableau, Statistics",17.6
+73,2026-07-02,Accenture,Mumbai,0-2 years,"Excel, SQL, Python, Tableau, Power BI",15.3
+74,2026-06-09,EXL,Mumbai,0-2 years,"AWS, Snowflake, SQL",12.1
+75,2026-07-17,ZS Associates,Gurgaon,2-4 years,"AWS, Python, Statistics",13.3
+76,2026-08-23,Cognizant,Chennai,2-4 years,"Snowflake, AWS, R, Statistics",14.3
+77,2026-07-12,Wipro,Bangalore,0-2 years,"Power BI, Snowflake, Tableau, AWS",15.4
+78,2026-07-14,TCS,Gurgaon,0-2 years,"Snowflake, Power BI, Python",17.2
+79,2026-07-14,Cognizant,Chennai,2-4 years,"R, SQL, Tableau, Excel",7.2
+80,2026-07-23,Deloitte,Chennai,Fresher,"Snowflake, R, Power BI, SQL, Statistics",6.0
+81,2026-07-22,IBM,Hyderabad,0-2 years,"Statistics, Snowflake, Tableau, AWS, Python",12.0
+82,2026-08-10,Google,Pune,2-4 years,"Tableau, R, Python, Excel",7.7
+83,2026-06-25,Google,Bangalore,2-4 years,"Python, Power BI, Excel, Statistics, Snowflake",9.9
+84,2026-08-15,LatentView Analytics,Chennai,2-4 years,"Excel, Power BI, Python, R",11.1
+85,2026-07-09,TCS,Mumbai,2-4 years,"Tableau, SQL, Snowflake",13.7
+86,2026-08-29,Infosys,Mumbai,0-2 years,"SQL, Tableau, Power BI",12.7
+87,2026-07-14,Infosys,Bangalore,0-2 years,"Excel, R, Power BI, AWS",7.0
+88,2026-08-20,ZS Associates,Bangalore,Fresher,"Tableau, Excel, Snowflake",4.5
+89,2026-07-24,Fractal Analytics,Chennai,2-4 years,"R, AWS, Power BI",18.7
+90,2026-07-09,Fractal Analytics,Gurgaon,0-2 years,"SQL, Excel, AWS, Snowflake, Statistics",9.7
+91,2026-06-11,Infosys,Hyderabad,Fresher,"Excel, Python, SQL, Power BI, Statistics",9.4
+92,2026-07-31,Cognizant,Bangalore,Fresher,"Tableau, Snowflake, SQL, Statistics",5.5
+93,2026-07-04,LatentView Analytics,Mumbai,2-4 years,"Power BI, AWS, SQL, Tableau, Excel",15.1
+94,2026-07-05,Infosys,Bangalore,Fresher,"Tableau, R, Power BI",4.6
+95,2026-08-28,Cognizant,Mumbai,0-2 years,"R, Snowflake, Power BI, SQL",14.4
+96,2026-07-26,IBM,Pune,2-4 years,"SQL, Excel, Snowflake, Statistics",17.7
+97,2026-08-13,Fractal Analytics,Bangalore,2-4 years,"SQL, Python, Power BI, Tableau",15.1
+98,2026-07-06,Infosys,Chennai,0-2 years,"Snowflake, Excel, Power BI, Python, AWS",10.7
+99,2026-08-25,Accenture,Hyderabad,0-2 years,"Snowflake, Tableau, Statistics, Power BI",17.4
+100,2026-08-10,TCS,Gurgaon,Fresher,"Tableau, Statistics, SQL, Power BI",10.9
+101,2026-06-01,ZS Associates,Chennai,0-2 years,"SQL, Power BI, Tableau, Python",14.7
+102,2026-08-03,ZS Associates,Gurgaon,Fresher,"Tableau, Python, Snowflake",7.2
+103,2026-08-29,Deloitte,Bangalore,Fresher,"Power BI, Python, Snowflake, Tableau, SQL",8.2
+104,2026-06-12,Wipro,Bangalore,0-2 years,"Python, Snowflake, Statistics",10.1
+105,2026-08-30,Cognizant,Gurgaon,0-2 years,"Power BI, Snowflake, Tableau, Excel",11.4
+106,2026-08-16,EXL,Mumbai,Fresher,"Tableau, AWS, Python",11.4
+107,2026-08-04,Cognizant,Bangalore,0-2 years,"Tableau, Snowflake, AWS, Excel, Power BI",13.5
+108,2026-07-15,Google,Chennai,2-4 years,"Snowflake, Statistics, AWS, Excel",19.7
+109,2026-07-01,Fractal Analytics,Gurgaon,Fresher,"SQL, Statistics, Snowflake, Power BI",9.5
+110,2026-07-19,Amazon,Mumbai,2-4 years,"Snowflake, SQL, Excel",13.0
+111,2026-08-15,Google,Bangalore,0-2 years,"R, Snowflake, SQL",16.1
+112,2026-07-23,ZS Associates,Hyderabad,Fresher,"Tableau, Statistics, R, Snowflake",6.9
+113,2026-06-11,Google,Mumbai,2-4 years,"Statistics, Snowflake, AWS, Tableau",6.5
+114,2026-06-09,Wipro,Mumbai,2-4 years,"Power BI, Excel, R, SQL",16.6
+115,2026-08-30,Accenture,Gurgaon,Fresher,"Tableau, SQL, Snowflake, Python, AWS",6.0
+116,2026-07-18,Amazon,Hyderabad,Fresher,"AWS, Python, Excel, R, SQL",8.7
+117,2026-07-19,Fractal Analytics,Mumbai,Fresher,"Python, Power BI, Snowflake, Statistics",5.7
+118,2026-07-03,ZS Associates,Bangalore,0-2 years,"R, Python, SQL, Power BI",19.2
+119,2026-08-15,Cognizant,Mumbai,0-2 years,"Tableau, Snowflake, AWS, Python, Excel",20.0
+120,2026-08-01,Accenture,Hyderabad,0-2 years,"Statistics, Tableau, R, Python, SQL",19.7
+121,2026-08-24,Amazon,Pune,Fresher,"SQL, Snowflake, AWS, Python, Excel",8.7
+122,2026-07-16,Wipro,Mumbai,Fresher,"Tableau, Python, Statistics, SQL, AWS",6.1
+123,2026-07-27,TCS,Chennai,0-2 years,"Python, Excel, R, AWS, Power BI",8.5
+124,2026-06-17,LatentView Analytics,Chennai,0-2 years,"R, Tableau, AWS, Excel, Python",18.8
+125,2026-08-01,LatentView Analytics,Pune,2-4 years,"Excel, Snowflake, SQL, R",16.6
+126,2026-06-29,ZS Associates,Mumbai,2-4 years,"R, Statistics, SQL, Power BI",6.2
+127,2026-08-08,Accenture,Gurgaon,0-2 years,"Tableau, AWS, Snowflake, Statistics, Python",7.5
+128,2026-06-30,Deloitte,Bangalore,2-4 years,"Statistics, Power BI, R, SQL, Snowflake",18.7
+129,2026-07-09,ZS Associates,Gurgaon,Fresher,"SQL, R, Python",12.0
+130,2026-06-15,Accenture,Hyderabad,2-4 years,"AWS, Snowflake, Python",15.4
+131,2026-08-29,EXL,Gurgaon,2-4 years,"Python, AWS, Statistics, SQL, Power BI",14.6
+132,2026-07-06,TCS,Mumbai,0-2 years,"Snowflake, R, Excel",18.0
+133,2026-06-13,ZS Associates,Pune,2-4 years,"Statistics, SQL, Power BI, Python, Excel",19.6
+134,2026-07-29,Accenture,Mumbai,Fresher,"SQL, R, AWS, Python, Excel",11.9
+135,2026-08-12,Wipro,Bangalore,2-4 years,"Power BI, R, Python",16.8
+136,2026-08-16,TCS,Pune,Fresher,"R, Tableau, AWS",5.0
+137,2026-08-24,TCS,Hyderabad,Fresher,"Power BI, Statistics, SQL, Excel",5.8
+138,2026-06-17,IBM,Gurgaon,2-4 years,"Excel, Snowflake, Power BI",16.9
+139,2026-08-05,Fractal Analytics,Bangalore,0-2 years,"Power BI, SQL, Statistics, AWS, Tableau",10.2
+140,2026-08-22,TCS,Bangalore,0-2 years,"AWS, Excel, Power BI, Statistics",18.7
+141,2026-06-10,Accenture,Pune,2-4 years,"Excel, Python, Snowflake",14.7
+142,2026-08-14,EXL,Mumbai,0-2 years,"R, Tableau, Power BI, Snowflake",14.5
+143,2026-06-13,LatentView Analytics,Mumbai,Fresher,"R, Power BI, Snowflake, AWS, Excel",7.0
+144,2026-07-29,Amazon,Gurgaon,2-4 years,"Statistics, AWS, Python",15.3
+145,2026-07-18,Infosys,Mumbai,0-2 years,"Excel, R, SQL",12.0
+146,2026-07-18,LatentView Analytics,Hyderabad,2-4 years,"R, Statistics, Snowflake",7.7
+147,2026-07-16,ZS Associates,Gurgaon,2-4 years,"Tableau, R, Python",7.5
+148,2026-08-04,Wipro,Hyderabad,2-4 years,"Power BI, Excel, Python, Tableau",11.1
+149,2026-07-06,Fractal Analytics,Hyderabad,0-2 years,"R, SQL, Tableau, Statistics, Python",6.4
+150,2026-07-05,IBM,Pune,0-2 years,"SQL, Python, AWS, Excel",13.9
